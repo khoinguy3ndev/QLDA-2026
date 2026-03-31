@@ -4,3 +4,5 @@ function isOdd(num) {
   }
   return "Hello Marry";
 }
+
+console.log("Hello World");
