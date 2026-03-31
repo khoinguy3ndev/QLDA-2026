@@ -1,6 +1,6 @@
 function isOdd(num) {
   if (num % 2 === 0) {
-    return true;
+    return "Hellooo Peter";
   }
-  return false;
+  return "Hello Marry";
 }
